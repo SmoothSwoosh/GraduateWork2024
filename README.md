@@ -1,4 +1,4 @@
-# graduate_work
+# ВКР
 Код для выпускной квалификационной работы 2024
 
 Для запуска необходимо выкачать 4 ноутбука - processing, prepare, classifier и testing_room.
